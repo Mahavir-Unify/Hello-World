@@ -11,7 +11,7 @@ export default function Home() {
         <h1
           className="font-heading text-6xl font-bold tracking-tight text-primary text-balance sm:text-7xl"
           style={{
-            color: "#49655D"
+            color: "#061A14"
           }}>
           Hello, world
         </h1>
